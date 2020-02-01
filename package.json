@@ -1,8 +1,8 @@
 {
   "name": "react-electron",
-  "version": "0.1.0",
-  "description": "Simple boilerplate for developing an Electron app with React",
-  "author": "willjw3",
+  "version": "2.0.0",
+  "description": "utilitário para listar arquivos de uma pasta",
+  "author": "david-fernand0",
   "build": {
     "appId": "react.electron",
     "win": {
@@ -11,7 +11,7 @@
   },
   "main": "public/electron.js",
   "homepage": "./",
-  "private": true,
+  "private": false,
   "dependencies": {
     "cross-env": "^6.0.3",
     "electron-is-dev": "^1.1.0",
