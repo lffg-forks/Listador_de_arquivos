@@ -5,6 +5,10 @@ Utilitário para listar arquivos de uma pasta
 ```
 git clone -b version_with_gui_under_development https://github.com/david-fernando/Listador_de_arquivos.git
 ```
+#### Entre na pasta do projeto antes de executar os comandos abaixo
+```
+cd Listador_de_arquivos 
+```
 #### Para instalar as dependências necessárias
 ```
 yarn
@@ -12,10 +16,6 @@ yarn
 ou
 ```
 npm install
-```
-#### Entre na pasta do projeto antes de executar os comandos abaixo
-```
-cd Listador_de_arquivos 
 ```
 #### Para executar o projeto
 ```
