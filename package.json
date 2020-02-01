@@ -5,7 +5,7 @@
   "author": "david-fernando",
   "repository": {
     "type": "git",
-    "url" : "https://github.com/david-fernando/Listador_de_arquivos/tree/version_with_gui_under_development"
+    "url" : "git+https://github.com/david-fernando/Listador_de_arquivos/tree/version_with_gui_under_development"
   },
   "licence": "MIT",
   "build": {
