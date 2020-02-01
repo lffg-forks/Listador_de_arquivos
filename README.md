@@ -13,8 +13,11 @@ ou
 ```
 npm install
 ```
-#### Para executar o projeto
+#### Entre na pasta do projeto antes de executar os comandos abaixo
 ```
+cd Listador_de_arquivos 
+```
+#### Para executar o projeto
 yarn start
 ```
 ou
