@@ -2,7 +2,7 @@
   "name": "react-electron",
   "version": "2.0.0",
   "description": "utilitário para listar arquivos de uma pasta",
-  "author": "david-fernand0",
+  "author": "david-fernando",
   "build": {
     "appId": "react.electron",
     "win": {
