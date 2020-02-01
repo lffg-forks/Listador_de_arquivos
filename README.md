@@ -1,0 +1,34 @@
+# Listador_de_arquivos
+Utilitário para listar arquivos de uma pasta
+
+#### Para clonar o repositório
+```
+git clone -b version_with_gui_under_development https://github.com/david-fernando/Listador_de_arquivos.git
+```
+#### Para instalar as dependências necessárias
+```
+yarn
+```
+ou
+```
+npm install
+```
+#### Para executar o projeto
+```
+yarn start
+```
+ou
+```
+npm run start
+```
+##### ⚠️ Aviso!
+Ao executar um dos dois comandos acima o Electron **não** abrirar a janela do browser automaticamente, mas sim a janela do programa em si.
+
+#### Para fazer o executável
+```
+yarn build
+```
+ou
+```
+npm run build
+```
