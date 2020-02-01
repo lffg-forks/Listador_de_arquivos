@@ -18,6 +18,7 @@ npm install
 cd Listador_de_arquivos 
 ```
 #### Para executar o projeto
+```
 yarn start
 ```
 ou
